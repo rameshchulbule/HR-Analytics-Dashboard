@@ -54,14 +54,6 @@ The dashboard includes the following interactive visualizations:
 
 ---
 
-## 📷 Dashboard Preview
-
-> *(Replace the image below with your dashboard screenshot.)*
-
-![HR Analytics Dashboard](HR Analytics.png)
-
----
-
 ## 💡 Key Insights
 
 - The overall employee attrition rate is **16.1%**.
