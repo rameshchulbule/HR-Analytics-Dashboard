@@ -8,7 +8,7 @@ This project analyzes employee attrition using Power BI to identify trends and p
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](HR Analytics.png)
 
 ## Key Insights
 - Overall Attrition Rate: 16.1%
