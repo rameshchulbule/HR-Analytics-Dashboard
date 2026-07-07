@@ -24,9 +24,7 @@ The report is fully interactive, allowing users to filter data by department and
 
 ## 🛠️ Tool Used
 
-## Dashboard Preview
-
-![HR Analytics Dashboard](HR Analytics.png)
+- **Power BI Desktop**
 
 ---
 
@@ -60,7 +58,7 @@ The dashboard includes the following interactive visualizations:
 
 > *(Replace the image below with your dashboard screenshot.)*
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](HR Analytics.png)
 
 ---
 
