@@ -24,8 +24,9 @@ The report is fully interactive, allowing users to filter data by department and
 
 ## 🛠️ Tool Used
 
-- **![Uploading HR Analytics.png…]()
-p**
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR Analytics.png)
 
 ---
 
