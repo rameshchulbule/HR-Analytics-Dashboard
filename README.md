@@ -24,7 +24,8 @@ The report is fully interactive, allowing users to filter data by department and
 
 ## 🛠️ Tool Used
 
-- **Power BI Desktop**
+- **![Uploading HR Analytics.png…]()
+p**
 
 ---
 
